@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `William Ewanchuk`
+- **CCID:** `1692036`
 
 ## References and Resources
 
